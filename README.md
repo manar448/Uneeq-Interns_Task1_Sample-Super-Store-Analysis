@@ -7,6 +7,7 @@
 Source: The dataset used is the Sample Superstore dataset. It contains sales, profit, and other relevant information from a retail superstore.
 
 link: https://drive.google.com/file/d/1-a_UWzT5lznxwhpFN_KqOzbF6RX9Fw-0/view?usp=sharing
+
 Columns:
 
 • Category: Product category (e.g., Furniture, Office Supplies).
