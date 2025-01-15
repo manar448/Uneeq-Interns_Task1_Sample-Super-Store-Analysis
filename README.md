@@ -25,6 +25,13 @@ Columns:
 
 • Quantity: Number of units sold.
 
+# 🎯 Objectives
+Identify weak areas where the store is underperforming.
+Highlight regions, categories, and products driving losses.
+Derive actionable business strategies to improve profitability.
+Create a visually compelling dashboard using Power BI.
+Provide a storytelling narrative for stakeholders.
+
 # 🧰 Tools and Technologies
 • Power BI and Exel: For creating interactive dashboards and visualizations.
 
