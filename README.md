@@ -44,17 +44,11 @@ Provide a storytelling narrative for stakeholders.
 • Libraries: pandas, matplotlib, seaborn, numpy
 
 # 🔍 Key Insights
-1. Sales and Profit by Region:
+1. Sales and Profit by Region:The Central region shows the highest combined sales and profit, while the South has the lowest.
 
-The Central region shows the highest combined sales and profit, while the South has the lowest.
+2. Sales by Category:Technology leads sales with 36.4% of the total, followed by Furniture (32.3%) and Office Supplies (31.3%).
 
-2. Sales by Category:
-
-Technology leads sales with 36.4% of the total, followed by Furniture (32.3%) and Office Supplies (31.3%).
-
-3. Sales and Discounts by Subcategory:
-
-Subcategories like Chairs and Phones contribute significantly to sales, but high discounts in Accessories and Copiers could indicate inefficiencies or price competitiveness.
+3. Sales and Discounts by Subcategory:Subcategories like Chairs and Phones contribute significantly to sales, but high discounts in Accessories and Copiers could indicate inefficiencies or price competitiveness.
 
 # 📌 Recommendations
 Optimize Discounts: • Reduce discounts on less profitable products.
