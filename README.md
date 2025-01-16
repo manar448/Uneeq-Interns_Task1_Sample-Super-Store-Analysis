@@ -101,6 +101,10 @@ Focus on Profitable States: • Allocate more resources to top-performing states
 Inventory Management: • Improve stock planning for underperforming categories like Furniture.
 Marketing Strategies: • Run region-specific promotions to boost low-performing states.
 
+# Reports:
+Reports were created to effectively communicate the insights and finding from the data analysis.
+![SampleSuperstore Analysis](https://github.com/manar448/UneeqInterns_Task1_SampleSuperstore/blob/main/Capture.PNG)
+
 # 🏆 Conclusion
 This project demonstrates the power of data analysis and visualization in deriving actionable business insights. The interactive dashboard provides a comprehensive view for stakeholders to make informed decisions to improve the profitability of the Superstore.
 
