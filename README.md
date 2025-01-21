@@ -5,7 +5,7 @@ The goal is to extract and visualize key insights from the "Sample Superstore" d
 # 🗂️ Dataset
 Source: The dataset used is the Sample Superstore dataset. It contains sales, profit, and other relevant information from a retail superstore.
 
-link: https://drive.google.com/file/d/1-a_UWzT5lznxwhpFN_KqOzbF6RX9Fw-0/view?usp=sharing
+The dataset can be found [here](https://drive.google.com/file/d/1-a_UWzT5lznxwhpFN_KqOzbF6RX9Fw-0/view?usp=sharing)
 
 Columns:
 
@@ -114,8 +114,6 @@ Contributions are welcome! Fork the repository, create a branch for your feature
 # Contact
 For inquiries or collaboration opportunities, please reach out to me:
 
-Name: Manar Alaa Azouz
-
-Email: mmanaralaa962@gmail.com
-
-LinkedIn: www.linkedin.com/in/manar-alaa-1787211b0
+- **Name**: Manar Alaa Azouz
+- **Email**: manaralaa962@gmail.com
+- **LinkedIn**: [Manar Alaa Azouz](https://www.linkedin.com/in/manar-alaa-1787211b0)
